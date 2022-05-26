@@ -1,5 +1,4 @@
 git add .
-git commit -m 'some change'
+git commit -m 's'
 git push
-echo ambrose-kibet
-echo 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
+
