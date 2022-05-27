@@ -1,2 +1,2 @@
-0	s	\S\C\H\O\O\L	School
-
+0	string	/[CtbTf]*SCHOOL school
+!:mime School
