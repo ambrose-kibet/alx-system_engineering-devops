@@ -1,2 +1,2 @@
-0	string	/[cCtbTf]*	SCHOOL
-!:mime School
+#!/bin/bash
+0	string	\SCHOOL	School
