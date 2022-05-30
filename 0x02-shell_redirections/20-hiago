@@ -1,2 +1,2 @@
 #!x/bin/bash
-tr -d 'c' | tr -d 'C
+sed 's/c//g' | sed 's/C//g'
